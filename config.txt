@@ -1,0 +1,6 @@
+owner=385440338321473546
+prefix=E
+game=Eplay | Lamyem Event
+stayinchannel=true
+songinstatus=false
+token=NTQyNDA1MjY4MzE1ODMyMzIy.DztyRw.2KD4ajMu_giT9MwzLO1YpQy29rE
